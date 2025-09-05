@@ -167,11 +167,11 @@ pytest test.py
 FastAPI automatically generates interactive docs where you can try every endpoint without any external tool:
 ### Make sure the server is running.
 ### Option 1 : Open the Swagger UI in your browser:
-- Open your browser at: ```http://127.0.0.1:8000/docs```
-1. Click on the endpoint you want to test (e.g., `POST /users`).
-2. Click **Try it out**.
-3. If required, fill in the request body (for creating or updating users).
-4. Click **Execute** — the response will appear below with status code and payload.
+1. Open your browser at: ```http://127.0.0.1:8000/docs```
+2. Click on the endpoint you want to test (e.g., `POST /users`).
+3. Click **Try it out**.
+4. If required, fill in the request body (for creating or updating users).
+5. Click **Execute** — the response will appear below with status code and payload.
 
 ### Option 2 : Postman
 1. Open Postman and create a new request.  
@@ -251,4 +251,5 @@ user-management-api/
 ├── requirements.txt        # Python dependencies
 ├── README.md              # Project documentation
 └── user.db           # SQLite database (auto-created)
+
 ```
