@@ -241,8 +241,9 @@ user-management-api/
 ├── main.py                 # FastAPI application and endpoints
 ├── test.py                 # Comprehensive test suite
 ├── requirements.txt        # Python dependencies
-├── README.md              # Project documentation
-└── user.db           # SQLite database (auto-created)
+├── README.md               # Project documentation
+└── user.db                 # SQLite database (auto-created)
 
 ```
+
 
