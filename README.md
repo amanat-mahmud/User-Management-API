@@ -65,7 +65,7 @@ cd user-management-api
 ```
 ### 2. Clone the Repository in the current directory
 ```bash
-git clone https://github.com/yourusername/user-management-api.git
+git clone https://github.com/amanat-mahmud/User-Management-API
 cd user-management-api
 ```
 ### 3. Create Virtual env
@@ -245,5 +245,6 @@ user-management-api/
 └── user.db                 # SQLite database (auto-created)
 
 ```
+
 
 
