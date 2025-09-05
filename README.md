@@ -61,7 +61,7 @@ A robust FastAPI-based REST API for managing parent and child users with hierarc
 ### 1. Create project folder
 ```
 mkdir user-management-api-project
-cd ser-management-api-project
+cd user-management-api-project
 ```
 ### 2. Clone the Repository in the current directory
 ```bash
@@ -245,6 +245,7 @@ user-management-api/
 └── user.db                 # SQLite database (auto-created)
 
 ```
+
 
 
 
